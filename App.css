@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-screen {
+  background-color: #e0e3e2;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(30px);
+  color: rgb(57, 57, 53);
+}
+
+
