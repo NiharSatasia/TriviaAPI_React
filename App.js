@@ -2,8 +2,8 @@ import './App.css';
 //Using axios to query TrviaAPI instead of fetch
 import axios from 'axios';
 import {useState} from 'react';
-import Button from '@mui/material/Button';
 import { useEffect } from 'react';
+import Button from '@mui/material/Button';
 
 function App()
  {
